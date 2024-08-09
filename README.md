@@ -40,6 +40,9 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
   - **How It Helps:** I keep up with industry trends and emerging technologies, blending AI tools with my skills to drive innovation. This proactive approach allows me to become proficient in new areas quickly, adapt to evolving needs, and contribute to high-quality results.
 
+
+<br />
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JoshuaAkpan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joshuaakpan7)
 
 
