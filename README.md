@@ -32,12 +32,13 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 - :zap: In my free time, I upskill by reading tech articles, documentation, and watching tutorial videos within my niche (to discover best practices).
 
-- **Strength:** "In today’s rapidly evolving tech landscape, one of my strengths is effectively integrating AI tools like ChatGPT into my development process while ensuring that my creativity and originality remain central. I use these tools to enhance efficiency and tackle complex challenges, but I always ensure that my own insights and skills drive the final outcomes."
+- **Strength:** In today’s rapidly evolving tech landscape, I effectively integrate AI tools like ChatGPT into my development process while maintaining my creativity and originality. These tools enhance efficiency and help tackle complex challenges, but I ensure that my own insights drive the final outcomes.
 
-  - **How It Helps:** "For instance, I leverage AI to assist with generating ideas, troubleshooting issues, and drafting documentation. However, I always apply my personal perspective to refine and finalize the work. This approach allows me to benefit from AI’s capabilities while still delivering results that reflect my own expertise and innovative thinking."
+  - **How It Helps:** I leverage AI to assist with generating ideas, troubleshooting issues, and drafting documentation, while I apply my personal perspective to refine and finalize the work. This approach leverages AI’s capabilities while ensuring results reflect my expertise and innovative thinking.
 
-- **Additional Strength:** "I’m also highly adaptable and committed to continuous learning. I stay current with new technologies and methods, blending AI tools with my own skills to drive innovation and achieve effective solutions."
+- **Additional Strength:** I’m highly adaptable and committed to continuous learning, thriving in dynamic environments where staying current with new technologies is essential. My ability to quickly learn and adapt on the job helps me integrate new tools and techniques effectively.
 
+  - **How It Helps:** I keep up with industry trends and emerging technologies, blending AI tools with my skills to drive innovation. This proactive approach allows me to become proficient in new areas quickly, adapt to evolving needs, and contribute to high-quality results.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JoshuaAkpan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joshuaakpan7)
 
