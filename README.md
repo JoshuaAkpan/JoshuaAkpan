@@ -32,14 +32,6 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 - :zap: In my free time, I upskill by reading tech articles, documentation, and watching tutorial videos within my niche (to discover best practices).
 
-- **Strength:** In today’s rapidly evolving tech landscape, I effectively integrate AI tools like ChatGPT into my development process while maintaining my creativity and originality. These tools enhance efficiency and help tackle complex challenges, but I ensure that my own insights drive the final outcomes.
-
-  - **How It Helps:** I leverage AI to assist with generating ideas, troubleshooting issues, and drafting documentation, while I apply my personal perspective to refine and finalize the work. This approach leverages AI’s capabilities while ensuring results reflect my expertise and innovative thinking.
-
-- **Additional Strength:** I’m highly adaptable and committed to continuous learning, thriving in dynamic environments where staying current with new technologies is essential. My ability to quickly learn and adapt on the job helps me integrate new tools and techniques effectively.
-
-  - **How It Helps:** I keep up with industry trends and emerging technologies, blending AI tools with my skills to drive innovation. This proactive approach allows me to become proficient in new areas quickly, adapt to evolving needs, and contribute to high-quality results.
-
 
 <br />
 
