@@ -1,113 +1,182 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlmajN6aDRvaTdua2EzMjh6N3l3ZnB4N2MyOHE1bmI3YTNubWRjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="400" height=""/>
-</div>
+<div align="center">
 
-<br/>
+# Hi, I'm Joshua Akpan 👋
 
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/joshuaakpan7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://medium.com/@joshuaakpan7">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+### Frontend / Full-Stack Developer
+
+I build responsive, production-ready web and mobile applications with  
+**Next.js · React · TypeScript · React Native**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 
 <br />
 
-## :man_technologist: About Me :
+<a href="https://linkedin.com/in/joshuaakpan7">
+  <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Akpan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am a FrontEnd Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> from Nigeria.
-
-<!-- - :telescope: I’m currently as a Software Engineer and contributing to frontend and backend for building web applications. -->
-
-<!-- - :seedling: Exploring Technical Content Writing. -->
-  
-- 🌱 I’m currently learning NextJs
-
-- :zap: In my free time, I upskill by reading tech articles, documentation, and watching tutorial videos within my niche (to discover best practices).
-
-
-<br />
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JoshuaAkpan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joshuaakpan7)
-
-
-<br />
-
-## :hammer_and_wrench: Languages and Tools :
-
-<div>
-
-### Markup and Styling:
-| HTML5 | CSS3 | 
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3"  alt="CSS" width="55" height="55"/> |
-
-
-### Programming Languages:
-| JavaScript |	TypeScript |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
-
-
-### Frameworks/Libraries:
-| Reactjs	| Next.js |	Tailwind CSS |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="100" height="100"/> |
-
-
-### Tools/Platforms:
-| Git |	Postman |	Firebase |	Vercel |	Node.js |
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="70" height="70"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="55" height="55"/> |	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> |
-
+<a href="https://github.com/JoshuaAkpan">
+  <img src="https://img.shields.io/badge/GitHub-JoshuaAkpan-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=JoshuaAkpan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## About Me
 
+I'm a frontend-focused full-stack developer from Nigeria, building real-world web applications and the systems that power them.
+
+My work involves translating product designs into polished interfaces, building reusable component systems, integrating APIs, implementing backend services, and solving the practical problems that come with taking applications from development to production.
+
+I currently work primarily with **Next.js, React and TypeScript**, while also building mobile applications with **React Native**.
 
 ---
 
+## Featured Work
+
+### 🚘 Carsify
+
+**Full-Stack Developer**  
+**Live:** [carsify.net](https://carsify.net)
+
+Carsify is a production automotive marketplace built around vehicle discovery, seller workflows and buyer-seller interactions.
+
+I built the Carsify web application across both the **frontend and backend**, taking approved UI/UX designs through implementation, integration and production deployment.
+
+### Selected work
+
+- Built responsive marketplace interfaces from approved UI/UX designs using **Next.js, React and TypeScript**
+- Developed reusable components across marketplace, account, seller and administrative experiences
+- Implemented vehicle search, advanced filtering and listing discovery
+- Built vehicle listing detail, gallery and media experiences
+- Developed seller listing creation and editing workflows
+- Implemented saved vehicle / wishlist functionality
+- Built buyer-seller messaging and conversation flows
+- Developed seller and administrative dashboards
+- Implemented authentication, account and seller verification flows
+- Built forms, validation, dialogs, tables and application states
+- Integrated frontend functionality with backend APIs and **Supabase**
+- Implemented backend services and marketplace data flows
+- Worked on subscription, payment and plan-related application flows
+- Integrated map-based vehicle discovery and dashboard data visualisation
+- Tested, debugged and resolved frontend, backend and production integration issues
+- Supported deployment and production configuration
+
+**Core technologies**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `React Query` ·
+`React Hook Form` · `Zod` · `Zustand` · `Supabase` · `FastAPI` ·
+`PostgreSQL` · `Recharts` · `Mapbox` · `Framer Motion`
+
+> **Note:** Carsify is a commercial project and its source repository is private.  
+> I can discuss my contributions and walk through appropriate implementation details during a technical interview while respecting client confidentiality.
+
+---
+
+### 📱 Carsify Mobile
+
+**In Development**
+
+Currently building the mobile application for the Carsify marketplace using **React Native and TypeScript**.
+
+The application extends the existing Carsify platform to native mobile experiences while integrating with its existing backend services and marketplace infrastructure.
+
+It is currently under active development and has not yet been publicly released.
+
+---
+
+## 🏆 HNG Internship
+
+### HNG Internship 11 — Frontend Development Finalist
+
+Completed the **HNG Internship 11 Frontend Development track** as one of:
+
+### 523 finalists from 24,123 participants
+
+Approximately the **top 2.2%** of participants.
+
+The experience involved intensive, deadline-driven frontend development and practical project work.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+---
+
+## Technologies I Work With
+
+**Frontend Architecture**  
+Next.js · React · TypeScript · React Query · Zustand
+
+**Forms & Validation**  
+React Hook Form · Zod
+
+**UI & Styling**  
+Tailwind CSS · shadcn/ui · Framer Motion
+
+**Backend & Data**  
+FastAPI · REST APIs · Supabase · PostgreSQL
+
+**Visualisation & Location**  
+Recharts · Mapbox
+
+**Development & Deployment**  
+Git · GitHub · Postman · Railway · Figma
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JoshuaAkpan&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAkpan&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoshuaAkpan&show_icons=true&hide_border=true" />
 </p>
- 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshuaAkpan&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaAkpan&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAkpan&layout=compact&hide_border=true" />
+</p>
 
+---
 
-<!--
-**JoshuaAkpan/JoshuaAkpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Contribution Activity
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/joshuaakpan7](https://linkedin.com/in/joshuaakpan7)
+- **GitHub:** [github.com/JoshuaAkpan](https://github.com/JoshuaAkpan)
+
+I'm open to opportunities involving **React, Next.js, TypeScript and modern web application development**.
