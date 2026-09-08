@@ -35,7 +35,10 @@ I currently work primarily with **Next.js, React and TypeScript**, while also bu
 
 ## Featured Work
 
-### 🚘 Carsify
+<h3>
+  <img src="./assets/carsify-logo.svg" width="30" height="28" alt="Carsify logo" align="center" />
+  &nbsp;Carsify
+</h3>
 
 **Full-Stack Developer**  
 **Live:** [carsify.net](https://carsify.net)
