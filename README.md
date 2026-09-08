@@ -15,10 +15,6 @@ I build responsive, production-ready web and mobile applications with
   <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Akpan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/JoshuaAkpan">
-  <img src="https://img.shields.io/badge/GitHub-JoshuaAkpan-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -180,6 +176,5 @@ Git · GitHub · Postman · Railway · Figma
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/joshuaakpan7](https://linkedin.com/in/joshuaakpan7)
-- **GitHub:** [github.com/JoshuaAkpan](https://github.com/JoshuaAkpan)
 
 I'm open to opportunities involving **React, Next.js, TypeScript and modern web application development**.
