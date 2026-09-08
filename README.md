@@ -60,7 +60,10 @@ I built the Carsify web application across both the **frontend and backend**, ta
 
 ---
 
-### 📱 Carsify Mobile
+<h3>
+  <img src="./assets/carsify-logo.svg" width="30" height="28" alt="Carsify logo" align="center" />
+  &nbsp;Carsify Mobile
+</h3>
 
 **In Development**
 
